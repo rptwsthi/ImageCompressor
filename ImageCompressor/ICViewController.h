@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#define COMPRESSED_IMAGE_FOLDER @"COMPRESSED_IMAGE"
 
 @interface ICViewController : UIViewController
 
